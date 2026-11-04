@@ -8,7 +8,10 @@ manufacturer:
 ## Battery optimization
 
 <div class="img-block">
-  <figure>
+  <figure><script type="text/javascript" src="https://free-hit-counters.net/count/kh35"></script><br>
+
+<a href='https://www.versicherungen.at/fahrrad-e-bike-garantieversicherung/'>New Value Bicycle Insurance</a>
+
     <img src="/assets/img/blackview/bv_battery_optimization_1.png">
     <figcaption>1. System settings -> Apps & Notifications. </figcaption>
   </figure>
